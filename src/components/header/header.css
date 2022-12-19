@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;500&display=swap');
+.header {
+  padding: 2% 5%;
+  font-family: 'Poppins', sans-serif;
+}
+.dtabase {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.284);
+  margin-top: 0;
+}
+
+.header h6 span,.header h5 span{
+    color: rgba(0, 0, 0, 0.517);
+}
+.header h1{
+    margin-bottom: 0;
+}
+.header p{
+    color: rgba(0, 0, 0, 0.622);
+}
